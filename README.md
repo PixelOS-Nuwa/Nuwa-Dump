@@ -1,0 +1,20 @@
+## missi-user 16 BP2A.250605.031.A3 OS3.0.309.0.WMBCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: kalama
+- Codename: nuwa
+- Brand: Xiaomi
+- Flavor: missi-user
+- Release Version: 16
+- Kernel Version: 5.15.178
+- Id: BP2A.250605.031.A3
+- Incremental: OS3.0.309.0.WMBCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Treble Device: true
+- Locale: zh-CN
+- Screen Density: undefined
+- Fingerprint: Xiaomi/nuwa/nuwa:13/TKQ1.221114.001/OS3.0.309.0.WMBCNXM:user/release-keys
+- OTA version: 
+- Branch: missi-user-16-BP2A.250605.031.A3-OS3.0.309.0.WMBCNXM-release-keys
+- Repo: xiaomi_nuwa_dump
